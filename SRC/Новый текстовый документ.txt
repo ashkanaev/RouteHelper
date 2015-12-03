@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 авыавыаввы
 dfdsjfsdjfsldjf
+=======
+авыавыаввывввы
+вывыв
+>>>>>>> origin/master
